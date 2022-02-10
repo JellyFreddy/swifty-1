@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">swifty_component</string>
+    <string name="login_outline_text_value">Login</string>
+</resources>
